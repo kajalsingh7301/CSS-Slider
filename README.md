@@ -1,1 +1,1 @@
-# CSS-Slider
+# Image-Slider
